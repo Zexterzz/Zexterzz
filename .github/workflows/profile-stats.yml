@@ -1,3 +1,4 @@
+```yaml
 name: Atualizar Estatísticas do Perfil
 
 on:
@@ -19,16 +20,18 @@ jobs:
       - name: Gerar GitHub Stats
         uses: readme-tools/github-readme-stats-action@v1
         with:
-          username: Zexterzz
           card: stats
+          options: username=${{ github.repository_owner }}&show_icons=true&theme=tokyonight&hide_border=true
           path: profile/stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Gerar Top Languages
         uses: readme-tools/github-readme-stats-action@v1
         with:
-          username: Zexterzz
           card: top-langs
+          options: username=${{ github.repository_owner }}&layout=compact&langs_count=8&hide_border=true
           path: profile/top-langs.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Salvar arquivos
         run: |
@@ -40,3 +43,4 @@ jobs:
           git commit -m "Atualizar estatísticas do perfil" || exit 0
 
           git push
+```
