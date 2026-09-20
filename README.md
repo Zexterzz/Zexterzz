@@ -1,3 +1,4 @@
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:111827,100:06b6d4&height=220&section=header&text=LUIS%20OTAVIO&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=DESENVOLVIMENTO%20%7C%20TECNOLOGIA%20%7C%20INOVA%C3%87%C3%83O&descAlignY=55&descSize=16" width="100%"/>
@@ -27,7 +28,7 @@
 │ Status...........: Em constante evolução                   │
 │ Objetivo.........: Transformar ideias em soluções reais   │
 └──────────────────────────────────────────────────────────────┘
-```
+````
 
 Olá! Eu sou Luis Otavio, desenvolvedor em formação apaixonado por tecnologia, programação e criação de soluções digitais.
 
@@ -203,13 +204,11 @@ STATUS: EM DESENVOLVIMENTO...
 
 <div align="center">
 
-<img height="180" src="./profile/stats.svg" alt="Estatísticas do GitHub"/>
+<img src="https://raw.githubusercontent.com/Zexterzz/Zexterzz/main/profile/stats.svg" height="180" alt="Estatísticas do GitHub"/>
 
-<img height="180" src="./profile/top-langs.svg" alt="Linguagens mais utilizadas"/>
+<img src="https://raw.githubusercontent.com/Zexterzz/Zexterzz/main/profile/top-langs.svg" height="180" alt="Linguagens mais utilizadas"/>
 
 </div>
-
-
 
 ---
 
@@ -286,3 +285,4 @@ Luis Otavio • Zexterzz
 `Código • Tecnologia • Inovação`
 
 </div>
+
