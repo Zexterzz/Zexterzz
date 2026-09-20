@@ -1,12 +1,34 @@
-name: Teste do Workflow
+name: Gerar Estatísticas
 
 on:
   workflow_dispatch:
 
 jobs:
-  teste:
+  stats:
     runs-on: ubuntu-latest
 
+    permissions:
+      contents: write
+
     steps:
-      - name: Teste
-        run: echo "Workflow funcionando!"
+      - name: Baixar repositório
+        uses: actions/checkout@v4
+
+      - name: Criar pasta
+        run: mkdir -p profile
+
+      - name: Gerar estatísticas
+        run: |
+          curl -L "https://github-readme-stats.vercel.app/api?username=Zexterzz&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true" \
+          -o profile/stats.svg
+
+      - name: Salvar estatísticas
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add profile/stats.svg
+
+          git commit -m "Adicionar estatísticas do GitHub" || exit 0
+
+          git push
