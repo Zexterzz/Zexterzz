@@ -208,7 +208,7 @@ STATUS: EM DESENVOLVIMENTO...
 <img height="180" src="./profile/top-langs.svg" alt="Linguagens mais utilizadas"/>
 
 </div>
-```
+
 
 
 ---
