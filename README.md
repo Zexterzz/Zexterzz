@@ -8,7 +8,7 @@
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=Zexterz&label=VISUALIZA%C3%87%C3%95ES%20DO%20PERFIL&color=06b6d4&style=for-the-badge" alt="Visualizações do perfil"/>
+<img src="https://komarev.com/ghpvc/?username=Zexterzz&label=VISUALIZA%C3%87%C3%95ES%20DO%20PERFIL&color=06b6d4&style=for-the-badge" alt="Visualizações do perfil"/>
 
 </div>
 
@@ -21,19 +21,19 @@
 │                    SISTEMA INICIALIZADO                     │
 ├──────────────────────────────────────────────────────────────┤
 │ Nome.............: Luis Otavio                              │
-│ Usuário..........: Zexterz                                  │
+│ Usuário..........: Zexterzz                                │
 │ Área.............: Desenvolvimento de Sistemas             │
-│ Foco.............: Desenvolvimento Full Stack               │
-│ Status...........: Em constante evolução                    │
-│ Objetivo.........: Transformar ideias em soluções reais    │
+│ Foco.............: Desenvolvimento Full Stack              │
+│ Status...........: Em constante evolução                   │
+│ Objetivo.........: Transformar ideias em soluções reais   │
 └──────────────────────────────────────────────────────────────┘
 ```
 
-Olá! Eu sou **Luis Otavio**, desenvolvedor em formação apaixonado por tecnologia, programação e criação de soluções digitais.
+Olá! Eu sou Luis Otavio, desenvolvedor em formação apaixonado por tecnologia, programação e criação de soluções digitais.
 
-Tenho experiência acadêmica e prática com desenvolvimento de sistemas, trabalhando principalmente com **Java, JavaScript, TypeScript e React**, além de tecnologias para desenvolvimento web e bancos de dados.
+Tenho experiência acadêmica e prática com desenvolvimento de sistemas, trabalhando principalmente com Java, JavaScript, TypeScript e React, além de tecnologias para desenvolvimento web e bancos de dados.
 
-Atualmente, estou aprofundando meus conhecimentos em desenvolvimento de software, buscando evoluir tanto no **Front-end** quanto no **Back-end** e construir projetos cada vez mais completos.
+Atualmente, estou aprofundando meus conhecimentos em desenvolvimento de software, buscando evoluir tanto no Front-end quanto no Back-end e construir projetos cada vez mais completos.
 
 > "A tecnologia não é apenas código. É a ferramenta para transformar ideias em realidade."
 
@@ -203,13 +203,9 @@ STATUS: EM DESENVOLVIMENTO...
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Zexterz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Estatísticas do GitHub"/>
+<img height="180" src="./profile/stats.svg" alt="Estatísticas do GitHub"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zexterz&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Linguagens mais utilizadas"/>
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com/?user=Zexterz&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+<img height="180" src="./profile/top-langs.svg" alt="Linguagens mais utilizadas"/>
 
 </div>
 
@@ -219,7 +215,7 @@ STATUS: EM DESENVOLVIMENTO...
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Zexterz&theme=tokyo-night&hide_border=true&area=true&custom_title=Atividade%20no%20GitHub" width="100%" alt="Gráfico de atividade do GitHub"/>
+<img src="./profile/activity.svg" width="100%" alt="Atividade no GitHub"/>
 
 </div>
 
@@ -229,7 +225,7 @@ STATUS: EM DESENVOLVIMENTO...
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Zexterz&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" width="100%" alt="Troféus do GitHub"/>
+<img src="./profile/trophy.svg" width="100%" alt="Troféus do GitHub"/>
 
 </div>
 
@@ -240,9 +236,21 @@ STATUS: EM DESENVOLVIMENTO...
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Zexterz/Zexterz/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Zexterz/Zexterz/output/github-contribution-grid-snake.svg">
-  <img src="https://raw.githubusercontent.com/Zexterz/Zexterz/output/github-contribution-grid-snake.svg" alt="Animação das contribuições"/>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Zexterzz/Zexterzz/output/github-contribution-grid-snake-dark.svg"
+  />
+
+<source
+ media="(prefers-color-scheme: light)"
+ srcset="https://raw.githubusercontent.com/Zexterzz/Zexterzz/output/github-contribution-grid-snake.svg"
+/>
+
+<img
+ src="https://raw.githubusercontent.com/Zexterzz/Zexterzz/output/github-contribution-grid-snake.svg"
+ alt="Animação das contribuições"
+/>
+
 </picture>
 
 </div>
@@ -253,8 +261,8 @@ STATUS: EM DESENVOLVIMENTO...
 
 <div align="center">
 
-<a href="https://github.com/Zexterz">
-<img src="https://img.shields.io/badge/GitHub-Zexterz-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<a href="https://github.com/Zexterzz">
+<img src="https://img.shields.io/badge/GitHub-Zexterzz-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
 <a href="https://www.linkedin.com/">
@@ -271,7 +279,7 @@ STATUS: EM DESENVOLVIMENTO...
 
 ### `SYSTEM STATUS: ONLINE`
 
-**Luis Otavio • Zexterz**
+Luis Otavio • Zexterzz
 
 `Código • Tecnologia • Inovação`
 
