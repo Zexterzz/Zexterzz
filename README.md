@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:111827,100:06b6d4&height=220&section=header&text=LUIS%20OTAVIO&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=DESENVOLVIMENTO%20%7C%20TECNOLOGIA%20%7C%20INOVAÇÃO&descAlignY=55&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:111827,100:06b6d4&height=220&section=header&text=LUIS%20OTAVIO&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=DESENVOLVIMENTO%20%7C%20TECNOLOGIA%20%7C%20INOVA%C3%87%C3%83O&descAlignY=55&descSize=16" width="100%"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=Inicializando+perfil...;Sistema+online.;Olá%2C+eu+sou+Luis+Otavio.;Desenvolvedor+em+formação.;Construindo+soluções+com+tecnologia." alt="Animação de digitação"/>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&repeat=true&width=700&height=50&lines=Inicializando+perfil...;Sistema+online.;Ol%C3%A1%2C+eu+sou+Luis+Otavio.;Desenvolvedor+em+forma%C3%A7%C3%A3o.;Construindo+solu%C3%A7%C3%B5es+com+tecnologia." alt="Animação de digitação"/>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=Zexterz&label=VISUALIZAÇÕES%20DO%20PERFIL&color=06b6d4&style=for-the-badge" alt="Visualizações do perfil"/>
+<img src="https://komarev.com/ghpvc/?username=Zexterz&label=VISUALIZA%C3%87%C3%95ES%20DO%20PERFIL&color=06b6d4&style=for-the-badge" alt="Visualizações do perfil"/>
 
 </div>
 
@@ -45,7 +45,7 @@ Atualmente, estou aprofundando meus conhecimentos em desenvolvimento de software
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,javascript,typescript,html,css" />
+<img src="https://skillicons.dev/icons?i=java,javascript,typescript,html,css" alt="Linguagens"/>
 
 </div>
 
@@ -53,7 +53,7 @@ Atualmente, estou aprofundando meus conhecimentos em desenvolvimento de software
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,html,css,javascript,typescript" />
+<img src="https://skillicons.dev/icons?i=react,html,css,javascript,typescript" alt="Tecnologias Front-end"/>
 
 </div>
 
@@ -61,7 +61,7 @@ Atualmente, estou aprofundando meus conhecimentos em desenvolvimento de software
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,javascript,typescript" />
+<img src="https://skillicons.dev/icons?i=java,javascript,typescript" alt="Tecnologias Back-end"/>
 
 </div>
 
@@ -69,7 +69,11 @@ Atualmente, estou aprofundando meus conhecimentos em desenvolvimento de software
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" alt="Bancos de dados"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>
 
 </div>
 
@@ -98,7 +102,7 @@ DATABASE
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=vscode,git,github,figma,postman" />
+<img src="https://skillicons.dev/icons?i=vscode,git,github,figma,postman" alt="Ferramentas"/>
 
 </div>
 
@@ -199,17 +203,13 @@ STATUS: EM DESENVOLVIMENTO...
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Zexterz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Zexterz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Estatísticas do GitHub"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zexterz&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zexterz&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Linguagens mais utilizadas"/>
 
-</div>
+<br><br>
 
-<br>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Zexterz&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com/?user=Zexterz&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
 </div>
 
@@ -219,7 +219,7 @@ STATUS: EM DESENVOLVIMENTO...
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Zexterz&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Zexterz&theme=tokyo-night&hide_border=true&area=true&custom_title=Atividade%20no%20GitHub" width="100%" alt="Gráfico de atividade do GitHub"/>
 
 </div>
 
@@ -229,7 +229,7 @@ STATUS: EM DESENVOLVIMENTO...
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Zexterz&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Zexterz&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" width="100%" alt="Troféus do GitHub"/>
 
 </div>
 
@@ -239,7 +239,11 @@ STATUS: EM DESENVOLVIMENTO...
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Zexterz/Zexterz/output/github-contribution-grid-snake.svg" alt="Animação das contribuições"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Zexterz/Zexterz/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Zexterz/Zexterz/output/github-contribution-grid-snake.svg">
+  <img src="https://raw.githubusercontent.com/Zexterz/Zexterz/output/github-contribution-grid-snake.svg" alt="Animação das contribuições"/>
+</picture>
 
 </div>
 
@@ -250,11 +254,11 @@ STATUS: EM DESENVOLVIMENTO...
 <div align="center">
 
 <a href="https://github.com/Zexterz">
-<img src="https://img.shields.io/badge/GitHub-Zexterz-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-Zexterz-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
 <a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-Luis%20Otavio-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Luis%20Otavio-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
 </div>
