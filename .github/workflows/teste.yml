@@ -1,0 +1,14 @@
+```yaml
+name: Teste Actions
+
+on:
+  workflow_dispatch:
+
+jobs:
+  teste:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Teste
+        run: echo "Workflow funcionando!"
+```
