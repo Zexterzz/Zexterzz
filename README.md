@@ -18,14 +18,14 @@
 
 ```text
 ┌──────────────────────────────────────────────────────────────┐
-│                    SISTEMA INICIALIZADO                     │
+│                    SISTEMA INICIALIZADO                      │
 ├──────────────────────────────────────────────────────────────┤
-│ Nome.............: Luis Otavio                              │
-│ Usuário..........: Zexterzz                                │
-│ Área.............: Desenvolvimento de Sistemas             │
-│ Foco.............: Desenvolvimento Full Stack              │
-│ Status...........: Em constante evolução                   │
-│ Objetivo.........: Transformar ideias em soluções reais   │
+│ Nome.............: Luis Otavio                               │
+│ Usuário..........: Zexterzz                                  │
+│ Área.............: Desenvolvimento de Sistemas               │
+│ Foco.............: Desenvolvimento Full Stack                │
+│ Status...........: Em constante evolução                     │
+│ Objetivo.........: Transformar ideias em soluções reais      │
 └──────────────────────────────────────────────────────────────┘
 ````
 
