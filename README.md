@@ -282,7 +282,7 @@ alt="Troféus do GitHub"
 <img src="https://img.shields.io/badge/GitHub-Zexterzz-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
-<a href="https://www.linkedin.com/">
+<a href="www.linkedin.com/in/luis-otavio-marquez-ferreira-a75010367">
 <img src="https://img.shields.io/badge/LinkedIn-Luis%20Otavio-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
