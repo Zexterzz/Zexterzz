@@ -185,10 +185,7 @@ Projetos acadêmicos e pessoais desenvolvidos para praticar desenvolvimento de a
 ```bash
 $ ./iniciar-protocolo.sh
 
-[✓] Aprimorar conhecimentos em Java
-[✓] Evoluir em React e TypeScript
 [✓] Desenvolver aplicações Full Stack
-[✓] Trabalhar com bancos de dados
 [✓] Aprender novas tecnologias
 [✓] Criar projetos cada vez mais completos
 [→] Conquistar minha primeira oportunidade profissional em TI
