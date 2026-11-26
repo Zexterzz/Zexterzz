@@ -73,7 +73,7 @@ Atualmente, estou aprofundando meus conhecimentos em desenvolvimento de software
 
 <br><br>
 
-<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>
+<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=MicrosoftSQLServer&logoColor=white" alt="SQL Server"/>
 
 </div>
 
